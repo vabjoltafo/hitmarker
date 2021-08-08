@@ -1,0 +1,56 @@
+@import url("http://fonts.cdnfonts.com/css/circular-std-book?styles=16171,16169");
+@import url('http://fonts.cdnfonts.com/css/airbnb-cereal-app?styles=36584');
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.button {
+  @apply bg-orange-bgbutton rounded-6;
+}
+
+.card {
+  @apply border-1px border-black border-opacity-6 rounded-10;
+}
+
+.cardrowcontainer {
+  @apply xl:flex xl:flex-row xl:mx-185 xl:gap-40 xl:mt-80;
+}
+
+.h2card {
+  @apply text-md2 mt-18 ml-19;
+}
+
+.border {
+  @apply border-b border-black border-opacity-6 mx-15 mt-16;
+}
+
+.cardphoto {
+  @apply ml-19 mt-19 mr-12px;
+}
+
+.cardimgp {
+  @apply mt-18 text-md1;
+}
+
+.cardflag {
+  @apply w-20 h-15 ml-21 mb-21 mt-16 mr-14;
+}
+
+.cardflagp {
+  @apply text-cardtext text-sm1 mt-13px;
+}
+
+.boxshadow {
+  @apply shadow-custom;
+}
+
+.innerboxshadow {
+  @apply shadow-inner;
+}
+
+.star {
+  @apply md:float-right md:ml-8px
+}
