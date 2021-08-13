@@ -45,6 +45,7 @@ module.exports = {
         'testimonialparagraph': '#222831'
       },
       spacing: {
+        '40p': '40%',
         '5': '5px',
         '6': '6px',
         '7px': '7px',
@@ -136,6 +137,7 @@ module.exports = {
         '303': '303px',
         '322': '322px',
         '330': '330px',
+        '348': '348px',
         '349': '349.07px',
         '352': '352px',
         '360': '360px',
