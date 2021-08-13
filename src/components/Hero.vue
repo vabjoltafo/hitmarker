@@ -1,7 +1,7 @@
 <template>
   <div class="relative overflow-hidden">
-    <div class=" flex flex-col-reverse lg:flex-row items-center pb-100 lg:pb-245 lg:mx-135">
-      <div class="flex flex-1 flex-col items-center lg:items-start">
+    <div class=" flex flex-col-reverse lg:flex-row items-center pb-100 lg:pb-245 lg:ml-135">
+      <div class="flex flex-col items-center lg:items-start">
         <h2
           class="text-white lg:text-lg1 lg:w-519 text-md5 text-center lg:text-left lg:mb-40 mb-20 lg:mt-262 mt-40"
         >
@@ -34,7 +34,7 @@
       </div>
       
        <div>
-        <img src="../assets/hero/image.svg" alt="" class="mt-157 w-665 h-601 ml-36">
+        <img src="../assets/hero/image.svg" alt="" class="mt-157 w-665 h-601 mr-auto">
       </div>
     </div>
   </div>
