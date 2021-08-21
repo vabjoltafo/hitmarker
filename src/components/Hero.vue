@@ -34,7 +34,7 @@
       </div>
       
        <div>
-        <img src="../assets/hero/image.png" alt="" class="lg:mt-157 w-665 h-601 mr-auto">
+        <img src="../assets/hero/image.png" alt="" class="mt-40 lg:mt-157 lg:w-665 lg:h-601 mr-auto">
       </div>
     </div>
   </div>
