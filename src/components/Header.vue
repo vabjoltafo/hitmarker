@@ -3,7 +3,7 @@
     <nav class="flex flex-col lg:flex-row lg:items-center">
       <div class="flex flex-row">
         <img
-        src="../assets/header/hitmarker.svg"
+        src="../assets/header/hitmarker.png"
         class="object-contain h-29.5 w-167 lg:pl-134 lg:pt-45 pl-3 pt-3"
       />
       <div @click="isOpen = !isOpen" class="flex lg:invisible flex-1 justify-end">

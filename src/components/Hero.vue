@@ -23,7 +23,7 @@
               class="flex flex-1 bg-gray-bghero w-42 h-42 rounded-full border-white border-1px mt-7px"
             >
               <img
-                src="../assets/hero/triangle.svg"
+                src="../assets/hero/triangle.png"
                 alt=""
                 class="w-15 h-16 m-auto"
               />
@@ -34,7 +34,7 @@
       </div>
       
        <div>
-        <img src="../assets/hero/image.svg" alt="" class="lg:mt-157 w-665 h-601 mr-auto">
+        <img src="../assets/hero/image.png" alt="" class="lg:mt-157 w-665 h-601 mr-auto">
       </div>
     </div>
   </div>
