@@ -127,7 +127,7 @@
             class="relative bg-gray-bgheader w-300 md:w-1/2 lg:w-401 h-486 xl:ml-178"
           >
             <img
-              src="../assets/body/guyphoto.svg"
+              src="../assets/body/guyphoto.png"
               alt=""
               class="h-486 xl:w-378 xl:h-547 absolute xl:-top-60"
             />
